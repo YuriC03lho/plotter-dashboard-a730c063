@@ -1,0 +1,2441 @@
+[
+  {
+    "data": "2025-01-13",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 18,
+    "kits_embalados": 932,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-14",
+    "colaboradores": 2,
+    "rolos_cortados": 17,
+    "epi": 9,
+    "kits_embalados": 642,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-15",
+    "colaboradores": 4,
+    "rolos_cortados": 21,
+    "epi": 7,
+    "kits_embalados": 645,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-16",
+    "colaboradores": 4,
+    "rolos_cortados": 25,
+    "epi": 12,
+    "kits_embalados": 507,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-17",
+    "colaboradores": 4,
+    "rolos_cortados": 30,
+    "epi": 8,
+    "kits_embalados": 398,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-20",
+    "colaboradores": 2,
+    "rolos_cortados": 21,
+    "epi": 12,
+    "kits_embalados": 376,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-21",
+    "colaboradores": 2,
+    "rolos_cortados": 21,
+    "epi": 9,
+    "kits_embalados": 396,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-22",
+    "colaboradores": 4,
+    "rolos_cortados": 22,
+    "epi": 11,
+    "kits_embalados": 602,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-23",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 6,
+    "kits_embalados": 324,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-24",
+    "colaboradores": 2,
+    "rolos_cortados": 9,
+    "epi": 6,
+    "kits_embalados": 390,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-27",
+    "colaboradores": 1,
+    "rolos_cortados": 6,
+    "epi": 12,
+    "kits_embalados": 435,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-01-28",
+    "colaboradores": 1,
+    "rolos_cortados": 1,
+    "epi": 19,
+    "kits_embalados": 65,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-02-05",
+    "colaboradores": 2,
+    "rolos_cortados": 24,
+    "epi": 12,
+    "kits_embalados": 445,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-06",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 19,
+    "kits_embalados": 185,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-07",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 12,
+    "kits_embalados": 120,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-10",
+    "colaboradores": 2,
+    "rolos_cortados": 19,
+    "epi": 8,
+    "kits_embalados": 212,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-11",
+    "colaboradores": 2,
+    "rolos_cortados": 16,
+    "epi": 7,
+    "kits_embalados": 530,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-12",
+    "colaboradores": 2,
+    "rolos_cortados": 14,
+    "epi": 6,
+    "kits_embalados": 442,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-13",
+    "colaboradores": 2,
+    "rolos_cortados": 28,
+    "epi": 9,
+    "kits_embalados": 489,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-14",
+    "colaboradores": 2,
+    "rolos_cortados": 28,
+    "epi": 12,
+    "kits_embalados": 440,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-15",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 7,
+    "kits_embalados": 102,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-17",
+    "colaboradores": 1,
+    "rolos_cortados": 20,
+    "epi": 19,
+    "kits_embalados": 347,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-18",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 12,
+    "kits_embalados": 185,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-19",
+    "colaboradores": 2,
+    "rolos_cortados": 18,
+    "epi": 9,
+    "kits_embalados": 400,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-20",
+    "colaboradores": 2,
+    "rolos_cortados": 29,
+    "epi": 12,
+    "kits_embalados": 866,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-21",
+    "colaboradores": 2,
+    "rolos_cortados": 16,
+    "epi": 11,
+    "kits_embalados": 818,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-22",
+    "colaboradores": 1,
+    "rolos_cortados": 18,
+    "epi": 7,
+    "kits_embalados": 370,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-24",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 10,
+    "kits_embalados": 224,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-25",
+    "colaboradores": 1,
+    "rolos_cortados": 6,
+    "epi": 19,
+    "kits_embalados": 125,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-26",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 11,
+    "kits_embalados": 380,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-27",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 13,
+    "kits_embalados": 304,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-02-28",
+    "colaboradores": 2,
+    "rolos_cortados": 8,
+    "epi": 11,
+    "kits_embalados": 285,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 7500
+  },
+  {
+    "data": "2025-03-05",
+    "colaboradores": 2,
+    "rolos_cortados": 21,
+    "epi": 14,
+    "kits_embalados": 420,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-06",
+    "colaboradores": 2,
+    "rolos_cortados": 23,
+    "epi": 12,
+    "kits_embalados": 461,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-07",
+    "colaboradores": 2,
+    "rolos_cortados": 16,
+    "epi": 15,
+    "kits_embalados": 301,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-10",
+    "colaboradores": 2,
+    "rolos_cortados": 17,
+    "epi": 19,
+    "kits_embalados": 310,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-11",
+    "colaboradores": 2,
+    "rolos_cortados": 17,
+    "epi": 7,
+    "kits_embalados": 318,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-12",
+    "colaboradores": 2,
+    "rolos_cortados": 19,
+    "epi": 11,
+    "kits_embalados": 368,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-13",
+    "colaboradores": 2,
+    "rolos_cortados": 16,
+    "epi": 14,
+    "kits_embalados": 301,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-14",
+    "colaboradores": 2,
+    "rolos_cortados": 14,
+    "epi": 12,
+    "kits_embalados": 220,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-17",
+    "colaboradores": 2,
+    "rolos_cortados": 10,
+    "epi": 15,
+    "kits_embalados": 477,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-18",
+    "colaboradores": 2,
+    "rolos_cortados": 17,
+    "epi": 11,
+    "kits_embalados": 798,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-19",
+    "colaboradores": 2,
+    "rolos_cortados": 14,
+    "epi": 8,
+    "kits_embalados": 517,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-20",
+    "colaboradores": 2,
+    "rolos_cortados": 12,
+    "epi": 10,
+    "kits_embalados": 757,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-21",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 7,
+    "kits_embalados": 602,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-24",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 12,
+    "kits_embalados": 397,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-25",
+    "colaboradores": 2,
+    "rolos_cortados": 25,
+    "epi": 9,
+    "kits_embalados": 519,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-26",
+    "colaboradores": 2,
+    "rolos_cortados": 28,
+    "epi": 7,
+    "kits_embalados": 565,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-27",
+    "colaboradores": 2,
+    "rolos_cortados": 14,
+    "epi": 19,
+    "kits_embalados": 566,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-28",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 9,
+    "kits_embalados": 337,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-03-31",
+    "colaboradores": 1,
+    "rolos_cortados": 10,
+    "epi": 12,
+    "kits_embalados": 520,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-04-01",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 9,
+    "kits_embalados": 504,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-03",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 9,
+    "kits_embalados": 416,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-03",
+    "colaboradores": 1,
+    "rolos_cortados": 16,
+    "epi": 9,
+    "kits_embalados": 256,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-04",
+    "colaboradores": 3,
+    "rolos_cortados": 17,
+    "epi": 7,
+    "kits_embalados": 933,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-07",
+    "colaboradores": 1,
+    "rolos_cortados": 23,
+    "epi": 7,
+    "kits_embalados": 475,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-08",
+    "colaboradores": 1,
+    "rolos_cortados": 20,
+    "epi": 12,
+    "kits_embalados": 190,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-09",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 8,
+    "kits_embalados": 441,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-10",
+    "colaboradores": 2,
+    "rolos_cortados": 28,
+    "epi": 14,
+    "kits_embalados": 530,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-11",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 11,
+    "kits_embalados": 750,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-14",
+    "colaboradores": 2,
+    "rolos_cortados": 24,
+    "epi": 7,
+    "kits_embalados": 992,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-15",
+    "colaboradores": 1,
+    "rolos_cortados": 13,
+    "epi": 16,
+    "kits_embalados": 445,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-16",
+    "colaboradores": 2,
+    "rolos_cortados": 26,
+    "epi": 7,
+    "kits_embalados": 673,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-17",
+    "colaboradores": 1,
+    "rolos_cortados": 27,
+    "epi": 9,
+    "kits_embalados": 539,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-18",
+    "colaboradores": 1,
+    "rolos_cortados": 7,
+    "epi": 11,
+    "kits_embalados": 170,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-21",
+    "colaboradores": 1,
+    "rolos_cortados": 20,
+    "epi": 6,
+    "kits_embalados": 400,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-22",
+    "colaboradores": 2,
+    "rolos_cortados": 33,
+    "epi": 10,
+    "kits_embalados": 1084,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-23",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 12,
+    "kits_embalados": 225,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-24",
+    "colaboradores": 1,
+    "rolos_cortados": 14,
+    "epi": 8,
+    "kits_embalados": 695,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-25",
+    "colaboradores": 1,
+    "rolos_cortados": 22,
+    "epi": 12,
+    "kits_embalados": 1172,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-28",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 7,
+    "kits_embalados": 516,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-29",
+    "colaboradores": 1,
+    "rolos_cortados": 24,
+    "epi": 10,
+    "kits_embalados": 473,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-04-30",
+    "colaboradores": 1,
+    "rolos_cortados": 20,
+    "epi": 8,
+    "kits_embalados": 650,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 11000
+  },
+  {
+    "data": "2025-05-02",
+    "colaboradores": 1,
+    "rolos_cortados": 22,
+    "epi": 11,
+    "kits_embalados": 855,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-03",
+    "colaboradores": 1,
+    "rolos_cortados": 3,
+    "epi": 5,
+    "kits_embalados": 112,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-05",
+    "colaboradores": 1,
+    "rolos_cortados": 17,
+    "epi": 12,
+    "kits_embalados": 511,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-06",
+    "colaboradores": 1,
+    "rolos_cortados": 14,
+    "epi": 7,
+    "kits_embalados": 372,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-07",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 9,
+    "kits_embalados": 311,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-08",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 12,
+    "kits_embalados": 220,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-09",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 7,
+    "kits_embalados": 120,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-10",
+    "colaboradores": 1,
+    "rolos_cortados": 10,
+    "epi": 3,
+    "kits_embalados": 536,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-12",
+    "colaboradores": 1,
+    "rolos_cortados": 8,
+    "epi": 15,
+    "kits_embalados": 432,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-13",
+    "colaboradores": 1,
+    "rolos_cortados": 15,
+    "epi": 12,
+    "kits_embalados": 665,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-14",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 15,
+    "kits_embalados": 375,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-15",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 9,
+    "kits_embalados": 170,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-16",
+    "colaboradores": 1,
+    "rolos_cortados": 15,
+    "epi": 12,
+    "kits_embalados": 375,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-19",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 15,
+    "kits_embalados": 126,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-22",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 7,
+    "kits_embalados": 475,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-23",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 12,
+    "kits_embalados": 245,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-24",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 3,
+    "kits_embalados": 267,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-26",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 7,
+    "kits_embalados": 415,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-27",
+    "colaboradores": 1,
+    "rolos_cortados": 6,
+    "epi": 15,
+    "kits_embalados": 260,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-28",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 8,
+    "kits_embalados": 265,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-29",
+    "colaboradores": 1,
+    "rolos_cortados": 10,
+    "epi": 12,
+    "kits_embalados": 698,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-05-30",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 15,
+    "kits_embalados": 435,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 8500
+  },
+  {
+    "data": "2025-06-02",
+    "colaboradores": 1,
+    "rolos_cortados": 8,
+    "epi": 12,
+    "kits_embalados": 375,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-03",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 14,
+    "kits_embalados": 444,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-04",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 10,
+    "kits_embalados": 204,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-05",
+    "colaboradores": 1,
+    "rolos_cortados": 10,
+    "epi": 9,
+    "kits_embalados": 200,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-06",
+    "colaboradores": 1,
+    "rolos_cortados": 1,
+    "epi": 10,
+    "kits_embalados": 20,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-09",
+    "colaboradores": 1,
+    "rolos_cortados": 9,
+    "epi": 8,
+    "kits_embalados": 144,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-09",
+    "colaboradores": 1,
+    "rolos_cortados": 2,
+    "epi": 8,
+    "kits_embalados": 120,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-10",
+    "colaboradores": 1,
+    "rolos_cortados": 3,
+    "epi": 12,
+    "kits_embalados": 122,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-11",
+    "colaboradores": 1,
+    "rolos_cortados": 6,
+    "epi": 8,
+    "kits_embalados": 116,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-12",
+    "colaboradores": 1,
+    "rolos_cortados": 3,
+    "epi": 6,
+    "kits_embalados": null,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-12",
+    "colaboradores": 1,
+    "rolos_cortados": 3,
+    "epi": 6,
+    "kits_embalados": 59,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-13",
+    "colaboradores": 1,
+    "rolos_cortados": 4,
+    "epi": 9,
+    "kits_embalados": 109,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-16",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 7,
+    "kits_embalados": 182,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-17",
+    "colaboradores": 1,
+    "rolos_cortados": 7,
+    "epi": 11,
+    "kits_embalados": 444,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-23",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 13,
+    "kits_embalados": 157,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-24",
+    "colaboradores": 1,
+    "rolos_cortados": 6,
+    "epi": 6,
+    "kits_embalados": 272,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-25",
+    "colaboradores": 1,
+    "rolos_cortados": 11,
+    "epi": 5,
+    "kits_embalados": 220,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-26",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 3,
+    "kits_embalados": 240,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-27",
+    "colaboradores": 1,
+    "rolos_cortados": 14,
+    "epi": 2,
+    "kits_embalados": 280,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-28",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 2,
+    "kits_embalados": 240,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-06-30",
+    "colaboradores": 1,
+    "rolos_cortados": 16,
+    "epi": 12,
+    "kits_embalados": 450,
+    "colaborador_nome": "Thierry/Pablo",
+    "kits_pedidos": 5000
+  },
+  {
+    "data": "2025-07-01",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 6,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-02",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": 10,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-03",
+    "colaboradores": 1,
+    "rolos_cortados": 11,
+    "epi": 12,
+    "kits_embalados": 555,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-04",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 9,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-05",
+    "colaboradores": 1,
+    "rolos_cortados": 15,
+    "epi": 6,
+    "kits_embalados": 525,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-07",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": 13,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-08",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": 6,
+    "kits_embalados": 350,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-09",
+    "colaboradores": 1,
+    "rolos_cortados": 16,
+    "epi": 10,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-10",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": 9,
+    "kits_embalados": 210,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-11",
+    "colaboradores": 1,
+    "rolos_cortados": 3,
+    "epi": 6,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-12",
+    "colaboradores": 1,
+    "rolos_cortados": 4,
+    "epi": 5,
+    "kits_embalados": 180,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-14",
+    "colaboradores": 1,
+    "rolos_cortados": 6,
+    "epi": 11,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-15",
+    "colaboradores": 1,
+    "rolos_cortados": 6,
+    "epi": 5,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-16",
+    "colaboradores": 1,
+    "rolos_cortados": 6,
+    "epi": 8,
+    "kits_embalados": 830,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-17",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": 6,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-18",
+    "colaboradores": 5,
+    "rolos_cortados": 14,
+    "epi": 20,
+    "kits_embalados": 250,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-19",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": 2,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-21",
+    "colaboradores": 1,
+    "rolos_cortados": 7,
+    "epi": 15,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-22",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": 3,
+    "kits_embalados": 356,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-23",
+    "colaboradores": 5,
+    "rolos_cortados": 7,
+    "epi": 5,
+    "kits_embalados": 250,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-24",
+    "colaboradores": 5,
+    "rolos_cortados": 15,
+    "epi": 4,
+    "kits_embalados": 310,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-25",
+    "colaboradores": 5,
+    "rolos_cortados": 11,
+    "epi": 2,
+    "kits_embalados": 220,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-28",
+    "colaboradores": 1,
+    "rolos_cortados": 17,
+    "epi": 15,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-29",
+    "colaboradores": 1,
+    "rolos_cortados": 19,
+    "epi": 8,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-30",
+    "colaboradores": 1,
+    "rolos_cortados": 12,
+    "epi": 4,
+    "kits_embalados": 605,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-07-31",
+    "colaboradores": 1,
+    "rolos_cortados": 15,
+    "epi": 5,
+    "kits_embalados": 550,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 5500
+  },
+  {
+    "data": "2025-08-01",
+    "colaboradores": 5,
+    "rolos_cortados": 20,
+    "epi": 4,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-02",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-04",
+    "colaboradores": 1,
+    "rolos_cortados": 3,
+    "epi": 10,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-05",
+    "colaboradores": 1,
+    "rolos_cortados": 22,
+    "epi": 5,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-06",
+    "colaboradores": 5,
+    "rolos_cortados": 6,
+    "epi": 3,
+    "kits_embalados": 224,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-07",
+    "colaboradores": 5,
+    "rolos_cortados": 9,
+    "epi": 6,
+    "kits_embalados": 976,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-08",
+    "colaboradores": 5,
+    "rolos_cortados": 14,
+    "epi": 2,
+    "kits_embalados": 1284,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-09",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-11",
+    "colaboradores": 2,
+    "rolos_cortados": 14,
+    "epi": 5,
+    "kits_embalados": 356,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-12",
+    "colaboradores": 2,
+    "rolos_cortados": 16,
+    "epi": 2,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-13",
+    "colaboradores": 6,
+    "rolos_cortados": 16,
+    "epi": 3,
+    "kits_embalados": 768,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-14",
+    "colaboradores": 6,
+    "rolos_cortados": 6,
+    "epi": 2,
+    "kits_embalados": 1040,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-15",
+    "colaboradores": 6,
+    "rolos_cortados": 15,
+    "epi": 4,
+    "kits_embalados": 360,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-18",
+    "colaboradores": 2,
+    "rolos_cortados": 12,
+    "epi": 10,
+    "kits_embalados": 91,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-19",
+    "colaboradores": 2,
+    "rolos_cortados": 17,
+    "epi": 5,
+    "kits_embalados": 200,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-20",
+    "colaboradores": 6,
+    "rolos_cortados": 15,
+    "epi": 9,
+    "kits_embalados": 389,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-21",
+    "colaboradores": 6,
+    "rolos_cortados": 20,
+    "epi": 5,
+    "kits_embalados": 406,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-22",
+    "colaboradores": 6,
+    "rolos_cortados": 22,
+    "epi": 3,
+    "kits_embalados": 162,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-25",
+    "colaboradores": 2,
+    "rolos_cortados": null,
+    "epi": 11,
+    "kits_embalados": 616,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-26",
+    "colaboradores": 2,
+    "rolos_cortados": 12,
+    "epi": 5,
+    "kits_embalados": 228,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-27",
+    "colaboradores": 6,
+    "rolos_cortados": 9,
+    "epi": 17,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-28",
+    "colaboradores": 5,
+    "rolos_cortados": 19,
+    "epi": 5,
+    "kits_embalados": 525,
+    "colaborador_nome": "",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-08-29",
+    "colaboradores": 6,
+    "rolos_cortados": 17,
+    "epi": 5,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 8000
+  },
+  {
+    "data": "2025-09-01",
+    "colaboradores": 2,
+    "rolos_cortados": 10,
+    "epi": 12,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-02",
+    "colaboradores": 2,
+    "rolos_cortados": 2,
+    "epi": 5,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-03",
+    "colaboradores": 6,
+    "rolos_cortados": 15,
+    "epi": 3,
+    "kits_embalados": 1744,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-04",
+    "colaboradores": 6,
+    "rolos_cortados": 17,
+    "epi": 6,
+    "kits_embalados": 1128,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-05",
+    "colaboradores": 6,
+    "rolos_cortados": 12,
+    "epi": 4,
+    "kits_embalados": 368,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-08",
+    "colaboradores": 2,
+    "rolos_cortados": 1,
+    "epi": 12,
+    "kits_embalados": 49,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-09",
+    "colaboradores": 2,
+    "rolos_cortados": 3,
+    "epi": 5,
+    "kits_embalados": 161,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-10",
+    "colaboradores": 6,
+    "rolos_cortados": 22,
+    "epi": 6,
+    "kits_embalados": 340,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-11",
+    "colaboradores": 6,
+    "rolos_cortados": 20,
+    "epi": 3,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-12",
+    "colaboradores": 6,
+    "rolos_cortados": 5,
+    "epi": 6,
+    "kits_embalados": 476,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-15",
+    "colaboradores": 2,
+    "rolos_cortados": 11,
+    "epi": 15,
+    "kits_embalados": 1304,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-16",
+    "colaboradores": 2,
+    "rolos_cortados": 12,
+    "epi": 8,
+    "kits_embalados": 190,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-17",
+    "colaboradores": 5,
+    "rolos_cortados": 15,
+    "epi": 5,
+    "kits_embalados": 720,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-18",
+    "colaboradores": 6,
+    "rolos_cortados": 28,
+    "epi": 2,
+    "kits_embalados": 448,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-22",
+    "colaboradores": 1,
+    "rolos_cortados": 2,
+    "epi": 6,
+    "kits_embalados": null,
+    "colaborador_nome": "YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-23",
+    "colaboradores": 1,
+    "rolos_cortados": 2,
+    "epi": 10,
+    "kits_embalados": null,
+    "colaborador_nome": "YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-24",
+    "colaboradores": 6,
+    "rolos_cortados": 26,
+    "epi": 5,
+    "kits_embalados": 880,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-25",
+    "colaboradores": 6,
+    "rolos_cortados": 14,
+    "epi": 3,
+    "kits_embalados": 620,
+    "colaborador_nome": "PABLO/YURI/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-26",
+    "colaboradores": 6,
+    "rolos_cortados": 12,
+    "epi": 5,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-29",
+    "colaboradores": 2,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-09-30",
+    "colaboradores": 2,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/YURI",
+    "kits_pedidos": 9000
+  },
+  {
+    "data": "2025-10-01",
+    "colaboradores": 6,
+    "rolos_cortados": 20,
+    "epi": 8,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-02",
+    "colaboradores": 6,
+    "rolos_cortados": 17,
+    "epi": 5,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-03",
+    "colaboradores": 6,
+    "rolos_cortados": 3,
+    "epi": 7,
+    "kits_embalados": 740,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-06",
+    "colaboradores": 2,
+    "rolos_cortados": 15,
+    "epi": 25,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-07",
+    "colaboradores": 2,
+    "rolos_cortados": 12,
+    "epi": 4,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-08",
+    "colaboradores": 6,
+    "rolos_cortados": 13,
+    "epi": 6,
+    "kits_embalados": 255,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-09",
+    "colaboradores": 6,
+    "rolos_cortados": 14,
+    "epi": 3,
+    "kits_embalados": 355,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-10",
+    "colaboradores": 6,
+    "rolos_cortados": 0,
+    "epi": 6,
+    "kits_embalados": 416,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-13",
+    "colaboradores": 1,
+    "rolos_cortados": 8,
+    "epi": 6,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-14",
+    "colaboradores": 2,
+    "rolos_cortados": null,
+    "epi": 3,
+    "kits_embalados": null,
+    "colaborador_nome": "-",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-15",
+    "colaboradores": 6,
+    "rolos_cortados": 6,
+    "epi": 7,
+    "kits_embalados": 104,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-16",
+    "colaboradores": 6,
+    "rolos_cortados": 28,
+    "epi": 3,
+    "kits_embalados": 276,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-17",
+    "colaboradores": 6,
+    "rolos_cortados": 4,
+    "epi": 6,
+    "kits_embalados": 1203,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-20",
+    "colaboradores": 1,
+    "rolos_cortados": 5,
+    "epi": 8,
+    "kits_embalados": null,
+    "colaborador_nome": "MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-21",
+    "colaboradores": 2,
+    "rolos_cortados": 4,
+    "epi": 5,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-22",
+    "colaboradores": 6,
+    "rolos_cortados": 10,
+    "epi": 5,
+    "kits_embalados": 416,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-23",
+    "colaboradores": 6,
+    "rolos_cortados": 20,
+    "epi": 6,
+    "kits_embalados": 236,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-24",
+    "colaboradores": 6,
+    "rolos_cortados": 17,
+    "epi": 4,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-27",
+    "colaboradores": 2,
+    "rolos_cortados": 3,
+    "epi": 7,
+    "kits_embalados": 370,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-28",
+    "colaboradores": 2,
+    "rolos_cortados": null,
+    "epi": 9,
+    "kits_embalados": 504,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-29",
+    "colaboradores": 6,
+    "rolos_cortados": 13,
+    "epi": 6,
+    "kits_embalados": 330,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-30",
+    "colaboradores": 6,
+    "rolos_cortados": 12,
+    "epi": 7,
+    "kits_embalados": 356,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-10-31",
+    "colaboradores": 6,
+    "rolos_cortados": 5,
+    "epi": 8,
+    "kits_embalados": 220,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-11-02",
+    "colaboradores": 2,
+    "rolos_cortados": 2,
+    "epi": 8,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-03",
+    "colaboradores": 2,
+    "rolos_cortados": 19,
+    "epi": 3,
+    "kits_embalados": 56,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-04",
+    "colaboradores": 5,
+    "rolos_cortados": 18,
+    "epi": 6,
+    "kits_embalados": 746,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-05",
+    "colaboradores": 6,
+    "rolos_cortados": 11,
+    "epi": 3,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-06",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": 4,
+    "kits_embalados": 1716,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-09",
+    "colaboradores": 2,
+    "rolos_cortados": 12,
+    "epi": 20,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-10",
+    "colaboradores": 2,
+    "rolos_cortados": 11,
+    "epi": 13,
+    "kits_embalados": null,
+    "colaborador_nome": "MARLON/HENRIQUE",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-11",
+    "colaboradores": 6,
+    "rolos_cortados": 15,
+    "epi": 9,
+    "kits_embalados": 624,
+    "colaborador_nome": "APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-12",
+    "colaboradores": 6,
+    "rolos_cortados": 17,
+    "epi": 7,
+    "kits_embalados": 100,
+    "colaborador_nome": "APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-13",
+    "colaboradores": 6,
+    "rolos_cortados": 15,
+    "epi": 9,
+    "kits_embalados": 512,
+    "colaborador_nome": "APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-16",
+    "colaboradores": 1,
+    "rolos_cortados": 21,
+    "epi": 15,
+    "kits_embalados": 400,
+    "colaborador_nome": "MARLON/HENRIQUE",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-17",
+    "colaboradores": 1,
+    "rolos_cortados": 15,
+    "epi": 8,
+    "kits_embalados": 352,
+    "colaborador_nome": "MARLON/HENRIQUE",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-18",
+    "colaboradores": 6,
+    "rolos_cortados": 9,
+    "epi": 9,
+    "kits_embalados": 560,
+    "colaborador_nome": "APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-19",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": 5,
+    "kits_embalados": 400,
+    "colaborador_nome": "HENRIQUE/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-20",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-23",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-24",
+    "colaboradores": 2,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-25",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-26",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-11-27",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ/MARLON",
+    "kits_pedidos": 6000
+  },
+  {
+    "data": "2025-12-01",
+    "colaboradores": 2,
+    "rolos_cortados": 26,
+    "epi": 15,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/NAYARA",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-02",
+    "colaboradores": 1,
+    "rolos_cortados": 4,
+    "epi": 9,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-03",
+    "colaboradores": 6,
+    "rolos_cortados": 26,
+    "epi": 5,
+    "kits_embalados": 370,
+    "colaborador_nome": "PABLO/APRENDIZ/NAYARA",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-04",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": 10,
+    "kits_embalados": 326,
+    "colaborador_nome": "PABLO/APRENDIZ/NAYARA",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-05",
+    "colaboradores": 6,
+    "rolos_cortados": 6,
+    "epi": 3,
+    "kits_embalados": 487,
+    "colaborador_nome": "PABLO/APRENDIZ/NAYARA",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-08",
+    "colaboradores": 1,
+    "rolos_cortados": 15,
+    "epi": 6,
+    "kits_embalados": 197,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-09",
+    "colaboradores": 2,
+    "rolos_cortados": 12,
+    "epi": 4,
+    "kits_embalados": 512,
+    "colaborador_nome": "PABLO/LUCAS",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-10",
+    "colaboradores": 6,
+    "rolos_cortados": 10,
+    "epi": 8,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ/ENOS",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-11",
+    "colaboradores": 6,
+    "rolos_cortados": 22,
+    "epi": 7,
+    "kits_embalados": 225,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-12",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": 6,
+    "kits_embalados": 450,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-15",
+    "colaboradores": 1,
+    "rolos_cortados": 7,
+    "epi": 8,
+    "kits_embalados": null,
+    "colaborador_nome": "NAYARA",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-16",
+    "colaboradores": 2,
+    "rolos_cortados": 7,
+    "epi": 10,
+    "kits_embalados": null,
+    "colaborador_nome": "NAYARA",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-17",
+    "colaboradores": 6,
+    "rolos_cortados": 17,
+    "epi": 6,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ/NAYARA",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-18",
+    "colaboradores": 5,
+    "rolos_cortados": 29,
+    "epi": 10,
+    "kits_embalados": 492,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-19",
+    "colaboradores": 5,
+    "rolos_cortados": null,
+    "epi": 5,
+    "kits_embalados": 40,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-22",
+    "colaboradores": 1,
+    "rolos_cortados": null,
+    "epi": 5,
+    "kits_embalados": 1924,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-23",
+    "colaboradores": 1,
+    "rolos_cortados": 15,
+    "epi": 10,
+    "kits_embalados": 240,
+    "colaborador_nome": "PABLO",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-24",
+    "colaboradores": 5,
+    "rolos_cortados": 16,
+    "epi": 5,
+    "kits_embalados": 253,
+    "colaborador_nome": "PABLO/APRENDIZ",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-29",
+    "colaboradores": 2,
+    "rolos_cortados": 17,
+    "epi": 6,
+    "kits_embalados": 272,
+    "colaborador_nome": "PABLO/RAFAEL",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2025-12-30",
+    "colaboradores": 2,
+    "rolos_cortados": 4,
+    "epi": 10,
+    "kits_embalados": 272,
+    "colaborador_nome": "PABLO/RAFAEL",
+    "kits_pedidos": 6500
+  },
+  {
+    "data": "2026-01-02",
+    "colaboradores": null,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": 642,
+    "colaborador_nome": "",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-05",
+    "colaboradores": 2,
+    "rolos_cortados": 13,
+    "epi": 20,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-06",
+    "colaboradores": 2,
+    "rolos_cortados": 13,
+    "epi": 10,
+    "kits_embalados": 360,
+    "colaborador_nome": "PABLO/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-07",
+    "colaboradores": 6,
+    "rolos_cortados": 16,
+    "epi": 8,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/APRENDIZ/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-08",
+    "colaboradores": 6,
+    "rolos_cortados": 20,
+    "epi": 5,
+    "kits_embalados": 968,
+    "colaborador_nome": "PABLO/APRENDIZ/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-09",
+    "colaboradores": 6,
+    "rolos_cortados": 11,
+    "epi": 5,
+    "kits_embalados": 2068,
+    "colaborador_nome": "PABLO/APRENDIZ/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-12",
+    "colaboradores": 2,
+    "rolos_cortados": 11,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "PABLO/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-13",
+    "colaboradores": 2,
+    "rolos_cortados": null,
+    "epi": 5,
+    "kits_embalados": 132,
+    "colaborador_nome": "PABLO/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-14",
+    "colaboradores": 6,
+    "rolos_cortados": 20,
+    "epi": 4,
+    "kits_embalados": null,
+    "colaborador_nome": "MARLON/APRENDIZ/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-15",
+    "colaboradores": 6,
+    "rolos_cortados": 7,
+    "epi": 4,
+    "kits_embalados": 420,
+    "colaborador_nome": "YURI/MARLON/APRENDIZ",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-16",
+    "colaboradores": 6,
+    "rolos_cortados": 10,
+    "epi": 4,
+    "kits_embalados": null,
+    "colaborador_nome": "YURI/MARLON/APRENDIZ",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-19",
+    "colaboradores": 3,
+    "rolos_cortados": 12,
+    "epi": 4,
+    "kits_embalados": 450,
+    "colaborador_nome": "YURI/MARLON/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-20",
+    "colaboradores": 3,
+    "rolos_cortados": 9,
+    "epi": 4,
+    "kits_embalados": 167,
+    "colaborador_nome": "YURI/MARLON/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-21",
+    "colaboradores": 6,
+    "rolos_cortados": 12,
+    "epi": 5,
+    "kits_embalados": 228,
+    "colaborador_nome": "YURI/MARLON/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-22",
+    "colaboradores": 6,
+    "rolos_cortados": 30,
+    "epi": 5,
+    "kits_embalados": 260,
+    "colaborador_nome": "YURI/MARLON/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-23",
+    "colaboradores": 6,
+    "rolos_cortados": 11,
+    "epi": 3,
+    "kits_embalados": 232,
+    "colaborador_nome": "YURI/MARLON/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-24",
+    "colaboradores": 2,
+    "rolos_cortados": 13,
+    "epi": 0,
+    "kits_embalados": 0,
+    "colaborador_nome": "YURI/MARLON/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-26",
+    "colaboradores": 2,
+    "rolos_cortados": 13,
+    "epi": 5,
+    "kits_embalados": 186,
+    "colaborador_nome": "MARLON/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-27",
+    "colaboradores": 6,
+    "rolos_cortados": 15,
+    "epi": 5,
+    "kits_embalados": 200,
+    "colaborador_nome": "MARLON/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-28",
+    "colaboradores": 6,
+    "rolos_cortados": 9,
+    "epi": 3,
+    "kits_embalados": 200,
+    "colaborador_nome": "MARLON/APRENDIZ/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-29",
+    "colaboradores": 6,
+    "rolos_cortados": 10,
+    "epi": 3,
+    "kits_embalados": 200,
+    "colaborador_nome": "MARLON/APRENDIZ/RAFAEL",
+    "kits_pedidos": 7000
+  },
+  {
+    "data": "2026-01-30",
+    "colaboradores": 6,
+    "rolos_cortados": null,
+    "epi": null,
+    "kits_embalados": null,
+    "colaborador_nome": "MARLON/APRENDIZ/RAFAEL",
+    "kits_pedidos": 7000
+  }
+]
